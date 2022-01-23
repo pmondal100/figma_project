@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/figma_project/static/css/main.13a4dc1d.css",
+    "main.js": "/figma_project/static/js/main.51d444dd.js",
+    "static/js/787.15340653.chunk.js": "/figma_project/static/js/787.15340653.chunk.js",
+    "static/media/person1.png": "/figma_project/static/media/person1.8b8db8f22e5286153c78.png",
+    "index.html": "/figma_project/index.html",
+    "main.13a4dc1d.css.map": "/figma_project/static/css/main.13a4dc1d.css.map",
+    "main.51d444dd.js.map": "/figma_project/static/js/main.51d444dd.js.map",
+    "787.15340653.chunk.js.map": "/figma_project/static/js/787.15340653.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13a4dc1d.css",
+    "static/js/main.51d444dd.js"
+  ]
+}
